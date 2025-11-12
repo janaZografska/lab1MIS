@@ -1,16 +1,12 @@
-# lab1
+# Lab 1 MIS
 
-A new Flutter project.
+A Flutter application that displays a schedule of university exams. 
 
-## Getting Started
+Created by: Jana Zografska - 213173
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img width="559" height="835" alt="homeScreen" src="https://github.com/user-attachments/assets/81313cde-5fe9-42e2-83f2-ec7fbd1965f6" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+***
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="594" height="843" alt="PassedExam" src="https://github.com/user-attachments/assets/13a07e8f-ccef-484f-a6c1-d8792ed14f4a" />
